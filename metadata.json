@@ -1,0 +1,6 @@
+{
+  "name": "KoraTech Nigeria — Smart Gadgets & Power Store",
+  "description": "Conversion-focused consumer electronics storefront for audio, fast-charging power, smartwatches, and home essentials with Paystack/Flutterwave checkout, COD guardrails, order tracking, and logistics admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
